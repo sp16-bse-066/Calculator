@@ -21,4 +21,9 @@ public class TheCalculator
     {
         return a/b;
     }
+
+    public int Rem(int a,int b)
+    {
+        return a%b;
+    }
 }
